@@ -1,0 +1,6 @@
+C:\Users\WilliamsR\documents\visual studio 2013\Projects\ProgrammingExercise_RWilliams\ProgrammingExercise_RWilliams\bin\Debug\ProgrammingExercise_RWilliams.exe.config
+C:\Users\WilliamsR\documents\visual studio 2013\Projects\ProgrammingExercise_RWilliams\ProgrammingExercise_RWilliams\bin\Debug\ProgrammingExercise_RWilliams.exe
+C:\Users\WilliamsR\documents\visual studio 2013\Projects\ProgrammingExercise_RWilliams\ProgrammingExercise_RWilliams\bin\Debug\ProgrammingExercise_RWilliams.pdb
+C:\Users\WilliamsR\documents\visual studio 2013\Projects\ProgrammingExercise_RWilliams\ProgrammingExercise_RWilliams\obj\Debug\ProgrammingExercise_RWilliams.exe
+C:\Users\WilliamsR\documents\visual studio 2013\Projects\ProgrammingExercise_RWilliams\ProgrammingExercise_RWilliams\obj\Debug\ProgrammingExercise_RWilliams.pdb
+C:\Users\WilliamsR\documents\visual studio 2013\Projects\ProgrammingExercise_RWilliams\ProgrammingExercise_RWilliams\obj\Debug\ProgrammingExercise_RWilliams.csprojResolveAssemblyReference.cache
