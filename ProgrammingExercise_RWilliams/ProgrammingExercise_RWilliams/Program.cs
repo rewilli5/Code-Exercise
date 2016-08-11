@@ -1,7 +1,7 @@
 ﻿/*
  Author: Rachel Williams 
  Description: Code for the programming exercise asked to parse through data from JSON files
-             to obtain and display search results from user input I was here
+             to obtain and display search results from user input
  */
 using System;
 using System.Collections.Generic;
